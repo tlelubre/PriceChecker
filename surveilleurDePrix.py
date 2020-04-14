@@ -19,7 +19,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 
-# Get the url of the page.
+# Get the url of the page. (Change it to get the article you want)
 url = "https://www.ldlc.com/fr-be/fiche/PB00260401.html"
 
 # Create the request to send.
